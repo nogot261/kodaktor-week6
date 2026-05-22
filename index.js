@@ -6,7 +6,7 @@ const codeHandler = require('./app');
 
 global.createReadStream = createReadStream;
 
-const LOGIN = process.env.LOGIN || 'dievina';
+const LOGIN = process.env.LOGIN || 'dieuvina';
 const PORT = process.env.PORT || 4321;
 
 const app = express();

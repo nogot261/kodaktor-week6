@@ -17,7 +17,7 @@ http://localhost:4321/code/
 http://localhost:4321/sha1/test/
 ```
 
-Если логин LMS отличается от `dievina`, его можно передать через переменную окружения:
+Если логин LMS отличается от `dieuvina`, его можно передать через переменную окружения:
 
 ```bash
 LOGIN=my_login npm start
